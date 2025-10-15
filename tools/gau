@@ -1,4 +1,0 @@
-#!/bin/bash
-
-cp -f ./tools/config/.gau.toml /tmp/.gau.toml
-./tools/bin/gau $@
